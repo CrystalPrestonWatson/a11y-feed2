@@ -15,7 +15,7 @@ Accessibility
 
 > This is the description of the feed.
 
-A feed that pulls in post that are about accessibility.
+A feed that pulls in posts that are about accessibility.
 
 # searchTerms
 
@@ -31,7 +31,6 @@ A feed that pulls in post that are about accessibility.
 - digital accessibility
 - assistive tech
 - assistive technology
-- digital accessibility
 
 # denyList
 
